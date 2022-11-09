@@ -1,0 +1,13 @@
+.profile {
+    text-align: center;
+}
+.stats {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.stats li {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
